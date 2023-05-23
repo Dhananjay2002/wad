@@ -1,0 +1,6 @@
+npm i
+npm install json-server
+
+
+npx json-server --watch db.json 
+ng serve --open
